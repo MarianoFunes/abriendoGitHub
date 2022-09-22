@@ -77,4 +77,6 @@ let mapeo = [ 1, 2, 3, 4, 5, 6 ]
 let resultadoMapeo = mapeo.map(mapita => mapita)*/
 
 
+fsdgdf
+
 
